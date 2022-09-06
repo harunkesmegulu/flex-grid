@@ -65,3 +65,37 @@
   .col-12 {
     width: 100%;
   }
+  .logo {
+    background-color: aquamarine;
+    padding: 1rem;
+  }
+  .menu {
+    background-color: lightskyblue;
+    padding: 1rem;
+  }
+  
+  .banner {
+    padding: 4rem;
+    background-color: red;
+  }
+  .bol1,
+  .bol2,
+  .bol3 {
+    background-color: greenyellow;
+    height: calc(100vh - 330px);
+    border: 1px solid grey;
+  }
+  
+  .bol4,
+  .bol5,
+  .bol6 {
+    background-color: tomato;
+    padding: 1rem;
+    border: 1px solid grey;
+  }
+  
+  .footer {
+    background-color: violet;
+    padding: 2rem;
+  }
+  
